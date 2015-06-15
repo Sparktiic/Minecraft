@@ -1,0 +1,41 @@
+item.ItemHardenedQuartz.name=Hardened Quartz
+item.ItemQuartzIngot.name=Quartz Ingot
+item.ItemDarkQuartz.name=Dark Quartz
+item.ItemDarkQuartzIngot.name=Dark Quartz Ingot
+item.ItemRoyalIngot.name=Royal Ingot
+item.ItemLegenditeIngot.name=Legendite Ingot
+item.ItemSapphire.name=Sapphire
+item.ItemSapphireShard.name=Sapphire Shard
+item.ItemDarkEmerald.name=Dark Emerald
+item.ItemWhiteDiamond.name=White Diamond
+
+
+
+item.ItemQuartzPickaxe.name=Quartz Pickaxe
+item.ItemQuartzAxe.name=Quartz Axe
+item.ItemQuartzShovel.name=Quartz Shovel
+item.ItemQuartzHoe.name=Quartz Hoe
+item.ItemQuartzSword.name=Quartz Sword
+
+item.ItemDarkQuartzPickaxe.name=Dark Quartz Pickaxe
+item.ItemDarkQuartzAxe.name=Dark Quartz Axe
+item.ItemDarkQuartzShovel.name=Dark Quartz Shovel
+item.ItemDarkQuartzHoe.name=Dark Quartz Hoe
+item.ItemDarkQuartzSword.name=Dark Quartz Sword
+
+item.ItemQuartzHelmet.name=Quartz Helmet
+item.ItemQuartzChestplate.name=Quartz Chestplate
+item.ItemQuartzLeggings.name=Quartz Leggings
+item.ItemQuartzBoots.name=Quartz Boots
+
+item.ItemDarkQuartzHelmet.name=Dark Quartz Helmet
+item.ItemDarkQuartzChestplate.name=Dark Quartz Chestplate
+item.ItemDarkQuartzLeggings.name=Dark Quartz Leggings
+item.ItemDarkQuartzBoots.name=Dark Quartz Boots
+
+
+item.ItemLightningBlade.name=Lightning Blade
+
+
+
+itemGroup.tabHeroStorm=HeroStorm

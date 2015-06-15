@@ -1,0 +1,31 @@
+[20:12:40] [main/INFO]: Setting user: Player460
+[20:12:43] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:12:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:HeroStorm
+[20:12:52] [Sound Library Loader/INFO]: Sound engine started
+[20:13:10] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:13:11] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:13:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:HeroStorm
+[20:13:11] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:13:12] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:13:12] [Sound Library Loader/INFO]: Sound engine started
+[20:13:25] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:13:25] [Server thread/INFO]: Generating keypair
+[20:13:26] [Server thread/INFO]: Preparing start region for level 0
+[20:13:27] [Server thread/INFO]: Preparing spawn area: 28%
+[20:13:28] [Server thread/INFO]: Preparing spawn area: 79%
+[20:13:29] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:13:30] [Server thread/INFO]: Player460[local:E:30cccb36] logged in with entity id 386 at (90.45961121461293, 76.0, 230.48308862956023)
+[20:13:30] [Server thread/INFO]: Player460 joined the game
+[20:13:33] [Server thread/INFO]: Player460 has just earned the achievement [Taking Inventory]
+[20:13:34] [Client thread/INFO]: [CHAT] Player460 has just earned the achievement [Taking Inventory]
+[20:14:58] [Server thread/INFO]: Saving and pausing game...
+[20:14:58] [Server thread/INFO]: Saving chunks for level 'jav'/Overworld
+[20:14:58] [Server thread/INFO]: Saving chunks for level 'jav'/Nether
+[20:14:58] [Server thread/INFO]: Saving chunks for level 'jav'/The End
+[20:15:09] [Server thread/INFO]: Stopping server
+[20:15:09] [Server thread/INFO]: Saving players
+[20:15:09] [Server thread/INFO]: Saving worlds
+[20:15:09] [Server thread/INFO]: Saving chunks for level 'jav'/Overworld
+[20:15:09] [Server thread/INFO]: Saving chunks for level 'jav'/Nether
+[20:15:09] [Server thread/INFO]: Saving chunks for level 'jav'/The End
+[20:15:11] [Client thread/INFO]: Stopping!
